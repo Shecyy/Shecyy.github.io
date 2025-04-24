@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 ### Hi 👋, I'm Chunyan She
@@ -24,11 +31,15 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 - 👯 **I’m open to any kind of collaboration. Please feel free to contact me directly through email (shecyy AT email DOT swu DOT edu DOT cn).**
 - ---
 
-**🛠 Languages and Tools:**  
+# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='/images/TCSVT-MPC-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+[MPC-Net: Multi-Prior Collaborative Network for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10543170) \\
+**Chunyan She**; Fujun Han; Lidan Wang; Shukai Duan; Tingwen Huang
 
-![Visitor Count](https://profile-counter.glitch.me/Shecyy/count.svg)
+[**Paper**](https://ieeexplore.ieee.org/document/10543170)
+
+- MPC-Net is a multi-prior collaborative network with transformer for low-light image enhancement.
+</div>
+</div>
