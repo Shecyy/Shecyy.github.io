@@ -27,9 +27,7 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 
 - 💻 My major is **Computer Science and Technology**.
 - 🔭 I’m currently working on deep learning and computer vision, in particular generative model and image enhancement. I have published some papers in the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Intelligent Vehicles (TIV) and Knowledge-Based Systems (KBS).
----
 - 👯 **I’m open to any kind of collaboration. Please feel free to contact me directly through email (shecyy AT email DOT swu DOT edu DOT cn).**
----
 
 # 📖 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='/images/TCSVT-MPC-Net.png' alt="sym" width="100%"></div></div>
@@ -54,7 +52,7 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0950705123008031)
 
-- SAGAN adopts the pre-trained VGG model on ImageNet to extract the prior semantic information, which is organically fed into the generator to refine its feature representation, and develop an adaptive image fusion strategy working on the output layer of the generator. Further, to improve the discriminator’s capacity of supervising the generator, it designs the dual-discriminator with dense connection and two image quality-driven priority queues with time-aware.
+- SAGAN adopts the pre-trained VGG model on ImageNet to extract the prior semantic information, which is organically fed into the generator to refine its feature representation, and develop an adaptive image fusion strategy working on the output layer of the generator.
 
 </div>
 </div>
