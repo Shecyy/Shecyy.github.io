@@ -22,8 +22,8 @@ redirect_from:
 [![](https://img.shields.io/badge/Research-GoogleScholar-red)](https://scholar.google.com/citations?user=1VmMLe4AAAAJ&hl=zh-CN&oi=ao)
 
 
+<img align="right" alt="GIF" src="/images/code.gif" width="240" height="155" />
 I am currently a Ph.D. student at the College of Artificial Intelligence, Southwest University, Chongqing, China.
-<img align="right" alt="GIF" src="/images/code.gif" width="266" height="170" />
 
 - 💻 My major is **Computer Science and Technology**.
 - 🔭 I’m currently working on deep learning and computer vision, in particular generative model and image enhancement. I have published some papers in the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Intelligent Vehicles (TIV) and Knowledge-Based Systems (KBS).
