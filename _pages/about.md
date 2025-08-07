@@ -29,6 +29,21 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 - 🔭 I’m currently working on deep learning and computer vision, in particular generative model and image enhancement. I have published some papers in the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Intelligent Vehicles (TIV) and Knowledge-Based Systems (KBS).
 
 # 📖 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='/images/ACMMM-EventLLIE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Fourier Prior and Event Collaboration for Low-Light Image Enhancement](https://arxiv.org/abs/2508.00308) \\
+**Chunyan She**; Fujun Han; Chengyu Fnag; Shukai Duan; Lidan Wang;
+
+[**Paper**](https://arxiv.org/abs/2508.00308)
+
+- In this work, we propose a two-stage decoupling framework called EventLLIE. Compared to the existing LLIE, it is aware of the fact that the frameand events carry content and structure information, respectively. Specifically, the enhancement pipeline is decoupled into two stagesconsisting of visibility restoration and structure refnement.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='/images/TCSVT-MPC-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
