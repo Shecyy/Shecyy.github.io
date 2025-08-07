@@ -34,7 +34,7 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 <div class='paper-box-text' markdown="1">
 
 [Exploring Fourier Prior and Event Collaboration for Low-Light Image Enhancement](https://arxiv.org/abs/2508.00308) \\
-**Chunyan She**; Fujun Han; Chengyu Fnag; Shukai Duan; Lidan Wang;
+**Chunyan She**; Fujun Han; Chengyu Fang; Shukai Duan; Lidan Wang;
 
 [**Paper**](https://arxiv.org/abs/2508.00308)
 
