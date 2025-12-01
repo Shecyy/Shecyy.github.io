@@ -33,12 +33,26 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='/images/ACMMM-EventLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Fourier Prior and Event Collaboration for Low-Light Image Enhancement](https://arxiv.org/abs/2508.00308) \\
+[Exploring Fourier Prior and Event Collaboration for Low-Light Image Enhancement](https://dl.acm.org/doi/10.1145/3746027.3754948) \\
 **Chunyan She**; Fujun Han; Chengyu Fang; Shukai Duan; Lidan Wang;
 
-[**Paper**](https://arxiv.org/abs/2508.00308)
+[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754948)
 
 - In this work, we propose a two-stage decoupling framework called EventLLIE. Compared to the existing LLIE, it is aware of the fact that the frameand events carry content and structure information, respectively. Specifically, the enhancement pipeline is decoupled into two stagesconsisting of visibility restoration and structure refnement.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2025</div><img src='/images/TETCI-GLCFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Low-Light Image Enhancement via Global-Local Collaborative Transformer](https://ieeexplore.ieee.org/document/11150743) \\
+**Chunyan She**; Fujun Han; Feng Pan; Shukai Duan; Tingwen Huang; Lidan Wang;
+
+[**Paper**](https://ieeexplore.ieee.org/document/11150743)
+
+- In this work, we propose a global-local collaborative transformer, an enhancer inspired by image editing experts, which exploits the collaboration between global and local adjustment to adaptively enhance low-light images with complex exposure.
 </div>
 </div>
 
