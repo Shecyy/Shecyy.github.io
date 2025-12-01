@@ -100,6 +100,7 @@ Fujun Han; Peng Ye; **Chunyan She**; Shukai Duan; Lidan Wang; Derong Liu
 </div>
 </div>
 
+- Wang Y, **She C**, Sun J, et al. Signal-to-noise ratio guided noise adaptive network via Dual-domain collaboration for low-light image enhancement[J]. Engineering Applications of Artificial Intelligence, 2025, 162: 112578.
 - Hu H, **She C**, Wang L, et al. UCT: Uncertainty-Based Consistency Training for Domain Adaptive Human Activity Recognition[J]. Digital Signal Processing, 2025: 105209.
 - Chen T, **She C**, Wang L, et al. Memristive leaky integrate-and-fire neuron and learnable straight-through estimator in spiking neural networks[J]. Cognitive Neurodynamics, 2024, 18(5): 3075-3091.
 - **She C**, Zeng S, Wang Q, et al. Adaptive fuzzy C-means clustering integrated with local outlier factor[J]. Intelligent Data Analysis, 2022, 26(6): 1507-1521.
